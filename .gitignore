@@ -1,0 +1,34 @@
+tex/poly.pdf
+*.pdf
+*.dvi
+*.ps
+*.thm
+*.bbl
+*.idx
+*.toc
+*.log
+*.aux
+*.blg
+*.out
+*~
+*/auto/
+*.rip
+.Rhistory
+*.html
+*.zip
+Ans-*
+*.snm
+*.nav
+*.ind
+*.ilg
+*.pdf_tex
+*.synctex.gz
+*.loc
+*.soc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
